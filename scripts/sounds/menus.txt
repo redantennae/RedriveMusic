@@ -1,0 +1,12 @@
+"menu.titlemusic"
+{
+	rndwave
+	{
+		wave 	"music/ibug_dancing_instrumental.ogg";	
+		wave 	"music/ibug_midnight_sunset_instrumental.ogg";
+	}
+	
+	channel 	CHAN_STREAM;
+	streamed	1;
+	loop		1;
+};
